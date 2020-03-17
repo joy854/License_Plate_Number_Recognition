@@ -16,7 +16,7 @@ Steps:
 <ol>
   <li>Dataset Used: Chars74K</li>
   <li>License Plate Extraction and Character Segmentation using OpenCV.</li>
-  <li>Prediction of these characters using the CNN Model built by Keras./li>  
+  <li>Prediction of these characters using the CNN Model built by Keras.</li>  
 </ol>
 
 
