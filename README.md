@@ -19,4 +19,9 @@ Steps:
   <li>Prediction of these characters using the CNN Model built by Keras./li>  
 </ol>
 
-<img src="https://ibb.co/bbTHFWs">
+
+![](Trained%20Models/LPR.JPG)
+
+Convolution Layers:
+
+![](Trained%20Models/model_plot.png)
